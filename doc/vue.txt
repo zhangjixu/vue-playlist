@@ -1,0 +1,5 @@
+1 el: element 需要获取的元素，一定是 HTML 中的根容器元素
+2 data: 用于数据存储
+3 methods: 用于存储各种方法
+4 data-binding: 给属性绑定对应的值
+
